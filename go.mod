@@ -1,4 +1,4 @@
-module github.com/sergey-cheperis/sse
+module github.com/sergey-cheperis/sse/v2
 
 go 1.13
 
